@@ -18,6 +18,7 @@
     "#18 What Affects Token Price?":"POSINEGATIVE",
     "#19 What is Market Maker?":"WAVEMAKER",
     "#20 What is Rug Pull?":"ANTIRUGPULL",
-    "#21 How to spot a Rug Pull?":"Nohandsnorug"
+    "#21 How to spot a Rug Pull?":"Nohandsnorug",
+    "#22 Fat Finger Error" :"WRONGFINGER"
   }
 
