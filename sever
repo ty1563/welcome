@@ -1,6 +1,6 @@
 {
-"coresky" : "https://0bb23471d9ca.ngrok-free.app/giaicaptcha",
-"portal" : "https://0bb23471d9ca.ngrok-free.app/convert_img",
-"convert_img2" : "https://0bb23471d9ca.ngrok-free.app/convert_img2",
-"convert_img3" : "https://0bb23471d9ca.ngrok-free.app/convert_img_3_base64"
+"coresky" : "https://38cef21c956f.ngrok-free.app/giaicaptcha",
+"portal" : "https://38cef21c956f.ngrok-free.app/convert_img",
+"convert_img2" : "https://38cef21c956f.ngrok-free.app/convert_img2",
+"convert_img3" : "https://38cef21c956f.ngrok-free.app/convert_img_3_base64"
 }
