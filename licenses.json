@@ -4,10 +4,10 @@
     "customerName": "Gia Toan Media",
     "createdAt": "2024-12-06T14:56:27.099Z",
     "expiryDate": "2027-12-06T14:56:27.099Z",
-    "maxDevices": 10,
+    "maxDevices": 5,
     "devices": [],
     "status": "active"
-  }
+  },
   "fcd246387ca5a52c91144f29c9c88d4e": {
     "key": "fcd246387ca5a52c91144f29c9c88d4e",
     "customerName": "adstoan",
