@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://app.gpmautomate.com/app/nansen-airdrop-end-start-point-309-backer-khung",
+    "name": "nansen"
+  },
+  {
+    "url": "https://app.gpmautomate.com/app/unich-full-reg-acc-voi-gmail-hotmail-giai-captcha-tu-dong-farm-fd-lam-task",
+    "name": "unich"
+  },
+  {
+    "url": "https://app.gpmautomate.com/app/pharos-network-node-js-script-gpm-full-ref-connect-wallet-checkin-faucet-task-swap-send-tx-mint-nft",
+    "name": "pharos"
+  },
+  {
+    "url": "https://app.gpmautomate.com/app/airdrop-onefootball-club-keo-testnet-khung-dang-chay-mua-2-goi-von-hon-300m-listing-q1-q2",
+    "name": "onefootball"
+  },
+  {
+    "url": "https://app.gpmautomate.com/app/pi-squared-full-ref-voi-gmail-hotmail-faucet-task-soccial-backup-vi-send-tx",
+    "name": "pi-squared"
+  },
+  {
+    "url": "https://app.gpmautomate.com/app/airdrop-sosovalue-ss2-ref-ket-noi-x-meta-lam-task-diem-danh",
+    "name": "sosovalue"
+  },
+  {
+    "url": "https://app.gpmautomate.com/app/kite-ai-full-ref-faucet-mint-badge-clear-task-verify-role",
+    "name": "kite-ai"
+  },
+  {
+    "url": "https://app.gpmautomate.com/app/zk-brevis-full-ref-dang-nhap-meta-okx-connect-x-discord-verify-captcha-claim-role-task",
+    "name": "zk-brevis"
+  }
+]
